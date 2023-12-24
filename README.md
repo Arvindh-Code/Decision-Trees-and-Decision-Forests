@@ -1,7 +1,5 @@
 # Decision-Trees-and-Decision-Forests
 
-# Decision Tree Classifier
-
 ## Description
 This Python script implements a decision tree classifier for classification tasks. It supports both optimized and randomized attribute selection methods, as well as the creation of decision forests with options for the number of trees (forest3 or forest15).
 
