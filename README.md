@@ -43,7 +43,8 @@ The script uses a decision tree learning algorithm based on information gain. Th
 
 ## Author
 
-Aravindh Gopalsamy
+- Aravindh Gopalsamy
+- gopal98aravindh@gmail.com
 
 ## License
 
